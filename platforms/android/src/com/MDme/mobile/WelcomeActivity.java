@@ -14,6 +14,7 @@ public class WelcomeActivity extends CordovaActivity
     @Override
     public void onCreate(Bundle savedInstanceState)
     {
+        super.setBooleanProperty("showTitle", true);
         super.onCreate(savedInstanceState);
         super.init();
         // Set by <content src="index.html" /> in config.xml

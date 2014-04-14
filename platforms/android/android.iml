@@ -12,10 +12,13 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
     </content>
+    <content url="file://$MODULE_DIR$/../../www">
+      <sourceFolder url="file://$MODULE_DIR$/../../www" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="classes" level="project" />
     <orderEntry type="module" module-name="CordovaLib" />
+    <orderEntry type="library" name="android-support-v7-appcompat" level="project" />
   </component>
 </module>
 

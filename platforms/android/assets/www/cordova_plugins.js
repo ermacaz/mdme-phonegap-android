@@ -304,6 +304,7 @@ module.exports.metadata =
     "org.apache.cordova.dialogs": "0.2.6",
     "org.apache.cordova.vibration": "0.3.7",
     "org.apache.cordova.console": "0.2.7",
+    "android.support.v7-appcompat": "1.0.0",
     "org.apache.cordova.file": "1.0.1"
 }
 // BOTTOM OF METADATA

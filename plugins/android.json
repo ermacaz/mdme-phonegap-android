@@ -60,6 +60,9 @@
         },
         "org.apache.cordova.console": {
             "PACKAGE_NAME": "com.phonegap.helloworld"
+        },
+        "android.support.v7-appcompat": {
+            "PACKAGE_NAME": "com.MDme.mobile"
         }
     },
     "dependent_plugins": {
